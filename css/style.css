@@ -1,27 +1,27 @@
 
 
 .nav-top{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(6, 112, 23) !important; /* Cor da página (Azul)*/
 }
 
 .nav-link{
-    color: white !important;
+    color: rgb(241, 241, 238) !important;
 }
 
 footer{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(6, 112, 23) !important;
     text-align: center !important;
-    color: white !important;
+    color: rgb(241, 241, 238) !important;
 }
 
 .img-car{
-    max-height: 600px !important;
+    max-height: 700px !important; /*700 tamanho do card principal as 3 imagens iniciais*/
 }
 
 .divisao{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(6, 112, 23) !important;
     text-align: center !important;
-    color: white !important;
+    color: rgb(241, 241, 238) !important;
     padding: 3em !important;
     /*margin-bottom: 5em !important;*/
 }
@@ -58,4 +58,8 @@ footer{
 
 .btn-card{
     margin-top: 20% !important;
+}
+
+.links{
+    text-align: center !important;
 }
